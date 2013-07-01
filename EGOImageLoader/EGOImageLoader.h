@@ -27,11 +27,11 @@
 #import <Foundation/Foundation.h>
 
 #ifndef __EGOIL_USE_BLOCKS
-#define __EGOIL_USE_BLOCKS 0
+#define __EGOIL_USE_BLOCKS 1
 #endif
 
 #ifndef __EGOIL_USE_NOTIF
-#define __EGOIL_USE_NOTIF 1
+#define __EGOIL_USE_NOTIF 0
 #endif
 
 @protocol EGOImageLoaderObserver;
